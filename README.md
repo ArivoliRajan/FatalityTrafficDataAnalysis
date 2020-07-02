@@ -9,3 +9,5 @@
 # Cluster
   * Created 3 node DataProc cluster, 1 Master node and 2 Worker node with 2 cores and 7.5 GB memory
   * Implemented the data pipeline using IAAC concepts
+# Architecture Diagram
+  * Chart https://github.com/ArivoliRajan/FatalityTrafficDataAnalysis/blob/master/ArchitectureDiagram/TrafficFatalityAnalysis.png
